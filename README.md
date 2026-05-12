@@ -12,6 +12,7 @@ Native software, modular systems and practical engineering.
 - runit
 - mksh
 - BusyBox
+- X11
 - s6
 - Openbox
 - tint2
