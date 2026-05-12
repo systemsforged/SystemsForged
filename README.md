@@ -10,6 +10,7 @@ Native software, modular systems and practical engineering.
 - suckless
 - musl
 - mksh
+- BusyBox
 - s6
 - Openbox
 - practical Linux
