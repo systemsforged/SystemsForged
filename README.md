@@ -7,13 +7,12 @@ Native software, modular systems and practical engineering.
 ## Focus
 
 - C
-- suckless
+- suckless but usable
 - musl
+- runit
 - mksh
 - BusyBox
 - s6
 - Openbox
-- practical Linux
-- native software
-- stable systems
-- low-overhead computing
+- tint2
+- Bellard approach
