@@ -7,7 +7,7 @@ Native software, modular systems and practical engineering.
 ## Focus
 
 - C
-- suckless but usable
+- suckless, but usable
 - musl
 - runit
 - mksh
@@ -15,4 +15,5 @@ Native software, modular systems and practical engineering.
 - s6
 - Openbox
 - tint2
-- Bellard approach
+- Bellard-style approach
+- efficiency, usability and eye candy — when possible without bloat
